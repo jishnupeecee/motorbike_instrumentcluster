@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MotoCluster">
+    <file alias="qmldir">C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/MotoCluster/qmldir</file>
+  </qresource>
+</RCC>
+

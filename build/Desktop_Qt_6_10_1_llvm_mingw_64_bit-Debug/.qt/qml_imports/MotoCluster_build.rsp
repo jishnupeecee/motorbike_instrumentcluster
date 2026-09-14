@@ -1,0 +1,14 @@
+-rootPath
+C:/Projects/MotoCluster_stage1/MotoCluster
+-cmake-output
+-output-file
+C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/qml_imports/MotoCluster_build.cmake
+-importPath
+C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/MotoCluster
+-importPath
+C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug
+-importPath
+C:/Qt/6.10.1/llvm-mingw_64/qml
+-qrcFiles
+C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_MotoCluster.qrc
+C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/MotoCluster_raw_qml_0.qrc

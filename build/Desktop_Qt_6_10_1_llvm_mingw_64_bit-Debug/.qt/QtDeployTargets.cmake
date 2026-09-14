@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_MotoCluster_FILE C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/MotoCluster.exe)
+set(__QT_DEPLOY_TARGET_MotoCluster_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_MotoCluster_RUNTIME_DLLS C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6Quick.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6Gui.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6Qml.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6Network.dll;C:/Qt/6.10.1/llvm-mingw_64/bin/Qt6Core.dll)

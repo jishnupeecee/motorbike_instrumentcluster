@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 15,
+                            "durationMicroseconds": 1508,
+                            "functionName": "text",
+                            "line": 35,
+                            "message": "Cannot access value for name clusterVM"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 1788,
+                            "functionName": "centerIn",
+                            "line": 28,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Projects/MotoCluster_stage1/MotoCluster/qml/main.qml"
+                }
+            ],
+            "moduleId": "MotoCluster(MotoCluster)"
+        }
+    ]
+}

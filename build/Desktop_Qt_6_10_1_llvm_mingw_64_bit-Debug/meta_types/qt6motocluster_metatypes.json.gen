@@ -1,0 +1,91 @@
+[
+    {
+        "classes": [
+            {
+                "className": "VehicleData",
+                "lineNumber": 23,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 30,
+                        "name": "speedKmh",
+                        "notify": "speedKmhChanged",
+                        "read": "speedKmh",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "write": "setSpeedKmh"
+                    }
+                ],
+                "qualifiedClassName": "VehicleData",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 39,
+                        "name": "speedKmhChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "vehicledata.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "ClusterViewModel",
+                "lineNumber": 25,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 31,
+                        "name": "speedDisplayText",
+                        "notify": "speedDisplayTextChanged",
+                        "read": "speedDisplayText",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "ClusterViewModel",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 42,
+                        "name": "speedDisplayTextChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "clustervm.h",
+        "outputRevision": 69
+    }
+]
