@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/MotoCluster/">
-    <file alias="qml/main.qml">C:/Projects/MotoCluster_stage1/MotoCluster/qml/main.qml</file>
-  </qresource>
-</RCC>
-

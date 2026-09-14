@@ -1,2 +1,0 @@
-C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/MotoCluster_autogen/include/../M4YTXQ7V2H/moc_vehicledata.cpp.json
-C:/Projects/MotoCluster_stage1/MotoCluster/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/MotoCluster_autogen/include/../QGUZWGM6RH/moc_clustervm.cpp.json

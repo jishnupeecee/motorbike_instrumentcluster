@@ -1,5 +1,0 @@
-module MotoCluster
-typeinfo MotoCluster.qmltypes
-prefer :/qt/qml/MotoCluster/
-depends QtQuick
-
